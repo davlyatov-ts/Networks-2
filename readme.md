@@ -19,6 +19,8 @@ ___
  Какой пакет и команды есть в Linux для этого? Приведите пример конфига.<br>
 Используется технология **Vlan** стандарт **802.1q**<br>
 пример настройки<br>
-![]()
+![](https://github.com/davlyatov-ts/Networks-2/blob/master/vlan.png)
 пример настройки конфигурационного файла
-![]()
+![](https://github.com/davlyatov-ts/Networks-2/blob/master/vlan2.png)
+___
+4.
