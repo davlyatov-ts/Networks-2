@@ -12,3 +12,5 @@ NDP (Nortel Discovery Protocol)
 EDP (Extreme Discovery Protocol)
 LLTD (Link Layer Topology Discovery)
 ```
+пример вывода командв в linux<br>
+![lldpcli](https://github.com/davlyatov-ts/Networks-2/blob/master/lldp.png)
