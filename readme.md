@@ -67,11 +67,11 @@ _____
 ___
 7.Как проверить ARP таблицу в Linux, Windows? Как очистить ARP кеш полностью? Как из ARP таблицы удалить только один нужный IP?Как проверить ARP таблицу в Linux, Windows? Как очистить ARP кеш полностью? Как из ARP таблицы удалить только один нужный IP?<br>
 Linux<br>
-**ip neighbour show** показать ARP таблицу
-**p neighbour del [ip address] dev [interface]** удалить из ARP таблицы конкретный адрес
-**ip neighbour flush all** очищает таблицу ARP
-Windows
-**arp -a** показать ARP таблицу
-**arp -d** очистить таблицу ARP
-**arp -d [ip address]** удалить из ARP таблицы конкретный адрес 
+**ip neighbour show** показать ARP таблицу<br>
+**p neighbour del [ip address] dev [interface]** удалить из ARP таблицы конкретный адрес<br>
+**ip neighbour flush all** очищает таблицу ARP<br>
+Windows<br>
+**arp -a** показать ARP таблицу<br>
+**arp -d** очистить таблицу ARP<br>
+**arp -d [ip address]** удалить из ARP таблицы конкретный адрес<br> 
 
